@@ -4,6 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:Ruandersonvieira/AWS_S3_Upload_Node.git",
   "author": "Ruanderson Vieira <ruanderson@accalia.io>",
+  "scripts":{
+    "start": "node ."
+  },
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.686.0",
